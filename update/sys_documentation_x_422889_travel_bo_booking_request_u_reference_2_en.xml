@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_reference_2" label="Destination" language="en" table="x_422889_travel_bo_booking_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_reference_2</element>
+            <help/>
+            <hint/>
+            <label>Destination</label>
+            <language>en</language>
+            <name>x_422889_travel_bo_booking_request</name>
+            <plural>Destinations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-20 03:29:59</sys_created_on>
+            <sys_id>b21f77d4db5500104a3d874239961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Destination</sys_name>
+            <sys_package display_value="Travel Booking Application" source="x_422889_travel_bo">bcad4096db4100104a3d87423996191b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travel Booking Application">bcad4096db4100104a3d87423996191b</sys_scope>
+            <sys_update_name>sys_documentation_x_422889_travel_bo_booking_request_u_reference_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-20 03:29:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

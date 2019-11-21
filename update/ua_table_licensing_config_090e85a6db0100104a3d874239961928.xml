@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_422889_travel_bo_booking_request</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-14 04:06:55</sys_created_on>
+        <sys_id>090e85a6db0100104a3d874239961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_422889_travel_bo_booking_request</sys_name>
+        <sys_package display_value="Travel Booking Application" source="x_422889_travel_bo">bcad4096db4100104a3d87423996191b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Booking Application">bcad4096db4100104a3d87423996191b</sys_scope>
+        <sys_update_name>ua_table_licensing_config_090e85a6db0100104a3d874239961928</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-14 04:06:55</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

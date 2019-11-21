@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_422889_travel_bo_booking_request">state=-5^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-5"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Pending</label>
+        <name>Pending</name>
+        <order>3</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-20 04:48:15</sys_created_on>
+        <sys_id>09d0d02cdb5500104a3d874239961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pending</sys_name>
+        <sys_package display_value="Travel Booking Application" source="x_422889_travel_bo">bcad4096db4100104a3d87423996191b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Booking Application">bcad4096db4100104a3d87423996191b</sys_scope>
+        <sys_update_name>sys_process_flow_09d0d02cdb5500104a3d874239961961</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-20 04:48:15</sys_updated_on>
+        <table>x_422889_travel_bo_booking_request</table>
+    </sys_process_flow>
+</record_update>

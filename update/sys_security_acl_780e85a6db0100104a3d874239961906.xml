@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_422889_travel_bo_booking_request</description>
+        <name>x_422889_travel_bo_booking_request</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-14 04:06:54</sys_created_on>
+        <sys_id>780e85a6db0100104a3d874239961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_422889_travel_bo_booking_request</sys_name>
+        <sys_package display_value="Travel Booking Application" source="x_422889_travel_bo">bcad4096db4100104a3d87423996191b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Booking Application">bcad4096db4100104a3d87423996191b</sys_scope>
+        <sys_update_name>sys_security_acl_780e85a6db0100104a3d874239961906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-14 04:06:54</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

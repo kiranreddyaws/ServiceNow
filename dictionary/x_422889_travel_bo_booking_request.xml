@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Booking Request" max_length="40" name="x_422889_travel_bo_booking_request" sizeclass="1" type="collection">
+        <element label="Return" max_length="40" name="u_boolean_6" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="u_glide_date_time_3" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Return Date" max_length="40" name="u_glide_date_time_4" type="glide_date_time"/>
+        <element label="From" max_length="32" name="u_reference_1" reference="cmn_location" type="reference"/>
+        <element label="Destination" max_length="32" name="u_reference_2" reference="cmn_location" type="reference"/>
+        <element label="Caller" max_length="32" name="u_reference_5" reference="sys_user" type="reference"/>
+    </element>
+</database>
